@@ -63,7 +63,8 @@ Fluxo de uma mensagem: usuário escreve → modelo decide se precisa de uma tool
 
 ### Fluxo 1 — Listar produtos
 Quais produtos vocês têm disponíveis?
-![alt text](image.png)
+<img width="856" height="416" alt="image" src="https://github.com/user-attachments/assets/6a534c3a-0811-43f9-9baa-b7cea441b427" />
+
 
 Me mostra só os produtos que estão em estoque.
 ![alt text](image-1.png)
