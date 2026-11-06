@@ -50,6 +50,24 @@ Fluxo de uma mensagem: usuário escreve → modelo decide se precisa de uma tool
 - **TypeScript:** era novo para mim. Usei IA como apoio e li o código para entender cada parte.
 - **Deixei de fora de propósito:** banco de dados, login, Docker e interface web, para focar no fluxo principal.
 
+## Estrutura do projeto
+
+```
+src/
+  api/                 API da loja (mock)
+    data.ts              produtos e pedidos de exemplo, em memória
+    server.ts            os 4 endpoints e as validações (estoque, formato)
+    index.ts             sobe o servidor
+  agent/               O agente de IA
+    agent.ts             loop de tool calling e memória da conversa
+    tools.ts             as 4 ferramentas: descrição para o modelo + execução
+    apiClient.ts         chamadas HTTP à API da loja
+    systemPrompt.ts      instruções de comportamento do agente
+  cli.ts               chat no terminal
+```
+
+A pasta `api` e a pasta `agent` só se comunicam por HTTP, como num cenário real em que o sistema do cliente já existe. Dentro do agente, cada arquivo tem uma responsabilidade: o loop, as ferramentas, o acesso à API e o prompt.
+
 ## O que eu melhoraria com mais tempo
 
 - Escrever testes automáticos.
