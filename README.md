@@ -81,46 +81,83 @@ A pasta `api` e a pasta `agent` só se comunicam por HTTP, como num cenário rea
 
 ### Fluxo 1 — Listar produtos
 Quais produtos vocês têm disponíveis?
-![alt text](image.png)
+<img width="856" height="416" alt="image" src="https://github.com/user-attachments/assets/715936b0-a6fc-40a2-afb5-11e61ffe4b09" />
+
+
 
 Me mostra só os produtos que estão em estoque.
-![alt text](image-1.png)
+<img width="798" height="316" alt="image" src="https://github.com/user-attachments/assets/b012d17b-b7e9-486a-96a0-220c6e346a73" />
+
+
+
 
 ### Fluxo 2 — Detalhes de produto
 Me conta mais sobre o produto 3.
-![alt text](image-2.png)
+<img width="1620" height="298" alt="image" src="https://github.com/user-attachments/assets/5c3ce36d-7ec1-4688-bbfe-d87ca6d43d99" />
+
+
+
 
 E quanto custa o produto 2?
-![alt text](image-3.png)
+<img width="974" height="100" alt="image" src="https://github.com/user-attachments/assets/c09a924a-084d-4efd-aba2-276ff71b72e0" />
+
+
+
 
 ### Fluxo 3 — Criar pedido
 Quero comprar 2 unidades do produto 1 e 1 unidade do produto 4.
-![alt text](image-4.png)
+<img width="1472" height="470" alt="image" src="https://github.com/user-attachments/assets/2062b234-e7bb-4a97-9c9b-21440e007607" />
+
+
+
 
 Adiciona também 3 unidades do último que você me mostrou.
-![alt text](image-5.png)
+<img width="1602" height="262" alt="image" src="https://github.com/user-attachments/assets/1c0fb05e-9482-460a-ada6-1db6ca69701f" />
+
+
+
 
 ### Fluxo 4 — Consultar pedido
 Qual o status do pedido 1042?
-![alt text](image-6.png)
+<img width="1018" height="390" alt="image" src="https://github.com/user-attachments/assets/b69c62f8-37a3-498d-92ca-9e32274994ba" />
+
+
+
+
+
 
 E o que eu pedi nele mesmo?
-![alt text](image-7.png)
+<img width="794" height="252" alt="image" src="https://github.com/user-attachments/assets/4d721aa9-acff-4dbc-af7d-061db4d43ab0" />
+
+
+
+
 
 ### Fluxo 5 — Tratamento de erros
 Me fala do produto 999.
-![alt text](image-8.png)
+<img width="1620" height="154" alt="image" src="https://github.com/user-attachments/assets/80817f24-8396-478f-82e5-029081fe0489" />
+
+
+
 
 Quero comprar 1000 unidades do produto 1.
-![alt text](image-9.png)
+<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/7d5b7b58-e7cb-49cd-afd1-16c61748562d" />
+
+
 
 Qual o status do pedido 9999?
-![alt text](image-10.png)
+<img width="1602" height="152" alt="image" src="https://github.com/user-attachments/assets/4d07364f-a1a5-4fe3-a4ed-ad43b87677c2" />
+
+
 
 
 ### Fluxo 6 — Limites do agente
 Qual a previsão do tempo em SP?
-![alt text](image-11.png)
+<img width="1602" height="126" alt="image" src="https://github.com/user-attachments/assets/add76964-aa2d-473f-aefd-f6c98f1f682c" />
+
+
 
 Cancela meu pedido 1042.
-![alt text](image-12.png)
+<img width="1592" height="130" alt="image" src="https://github.com/user-attachments/assets/459f090a-2a2d-4bc7-ab50-870a7b113500" />
+
+
