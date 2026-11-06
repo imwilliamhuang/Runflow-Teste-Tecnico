@@ -67,43 +67,55 @@ Quais produtos vocês têm disponíveis?
 
 
 Me mostra só os produtos que estão em estoque.
-![alt text](image-1.png)
+<img width="798" height="316" alt="image" src="https://github.com/user-attachments/assets/0362a152-a1bf-466c-92bb-0ce561c08e0d" />
+
 
 ### Fluxo 2 — Detalhes de produto
 Me conta mais sobre o produto 3.
-![alt text](image-2.png)
+<img width="1620" height="298" alt="image" src="https://github.com/user-attachments/assets/6e6d8aa9-daa0-4f9d-8bfe-c19112e55739" />
+
 
 E quanto custa o produto 2?
-![alt text](image-3.png)
+<img width="974" height="100" alt="image" src="https://github.com/user-attachments/assets/2a989d46-3a42-43fd-833b-70f0410fb82e" />
+
 
 ### Fluxo 3 — Criar pedido
 Quero comprar 2 unidades do produto 1 e 1 unidade do produto 4.
-![alt text](image-4.png)
+<img width="1620" height="154" alt="image" src="https://github.com/user-attachments/assets/320e3658-3063-47ae-85ef-9c447fb9e924" />
+
 
 Adiciona também 3 unidades do último que você me mostrou.
-![alt text](image-5.png)
+<img width="794" height="252" alt="image" src="https://github.com/user-attachments/assets/78fe8188-7a17-4d27-b559-4d155ef97241" />
+
 
 ### Fluxo 4 — Consultar pedido
 Qual o status do pedido 1042?
-![alt text](image-6.png)
+<img width="1018" height="390" alt="image" src="https://github.com/user-attachments/assets/db2aca60-5ed8-4816-8043-53d02ee79ad6" />
+
 
 E o que eu pedi nele mesmo?
-![alt text](image-7.png)
+<img width="1602" height="262" alt="image" src="https://github.com/user-attachments/assets/74a89080-4797-46c4-bb05-4b21724f2024" />
+
 
 ### Fluxo 5 — Tratamento de erros
 Me fala do produto 999.
-![alt text](image-8.png)
+<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/f1fac65e-c0cc-4937-a1fa-8ad6f3d99013" />
+
 
 Quero comprar 1000 unidades do produto 1.
-![alt text](image-9.png)
+<img width="1472" height="470" alt="image" src="https://github.com/user-attachments/assets/24f56d1f-8e9a-4201-a3d2-5638fed551ed" />
+
 
 Qual o status do pedido 9999?
-![alt text](image-10.png)
+<img width="1602" height="152" alt="image" src="https://github.com/user-attachments/assets/84e02fe9-98c5-42fa-a8f5-08210fdbfcf0" />
+
 
 
 ### Fluxo 6 — Limites do agente
 Qual a previsão do tempo em SP?
-![alt text](image-11.png)
+<img width="1602" height="126" alt="image" src="https://github.com/user-attachments/assets/05ff2b7d-d81d-432c-b69a-edde1a2a2d93" />
+
 
 Cancela meu pedido 1042.
-![alt text](image-12.png)
+<img width="1592" height="130" alt="image" src="https://github.com/user-attachments/assets/ae68d5f5-b26a-47ed-92bf-12371b665274" />
+
