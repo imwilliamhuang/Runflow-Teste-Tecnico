@@ -63,59 +63,76 @@ Fluxo de uma mensagem: usuário escreve → modelo decide se precisa de uma tool
 
 ### Fluxo 1 — Listar produtos
 Quais produtos vocês têm disponíveis?
-<img width="856" height="416" alt="image" src="https://github.com/user-attachments/assets/6a534c3a-0811-43f9-9baa-b7cea441b427" />
+<img width="856" height="416" alt="image" src="https://github.com/user-attachments/assets/715936b0-a6fc-40a2-afb5-11e61ffe4b09" />
+
 
 
 Me mostra só os produtos que estão em estoque.
-<img width="798" height="316" alt="image" src="https://github.com/user-attachments/assets/0362a152-a1bf-466c-92bb-0ce561c08e0d" />
+<img width="1620" height="298" alt="image" src="https://github.com/user-attachments/assets/ab02a0c1-5163-4ac7-80e4-c830c0c41f2d" />
+
 
 
 ### Fluxo 2 — Detalhes de produto
 Me conta mais sobre o produto 3.
-<img width="1620" height="298" alt="image" src="https://github.com/user-attachments/assets/6e6d8aa9-daa0-4f9d-8bfe-c19112e55739" />
+<img width="798" height="316" alt="image" src="https://github.com/user-attachments/assets/3d5ce95d-9354-4b22-b2d3-7a00c13df385" />
+
 
 
 E quanto custa o produto 2?
-<img width="974" height="100" alt="image" src="https://github.com/user-attachments/assets/2a989d46-3a42-43fd-833b-70f0410fb82e" />
+<img width="974" height="100" alt="image" src="https://github.com/user-attachments/assets/c09a924a-084d-4efd-aba2-276ff71b72e0" />
+
+
 
 
 ### Fluxo 3 — Criar pedido
 Quero comprar 2 unidades do produto 1 e 1 unidade do produto 4.
-<img width="1620" height="154" alt="image" src="https://github.com/user-attachments/assets/320e3658-3063-47ae-85ef-9c447fb9e924" />
+<img width="1472" height="470" alt="image" src="https://github.com/user-attachments/assets/2062b234-e7bb-4a97-9c9b-21440e007607" />
+
+
 
 
 Adiciona também 3 unidades do último que você me mostrou.
-<img width="794" height="252" alt="image" src="https://github.com/user-attachments/assets/78fe8188-7a17-4d27-b559-4d155ef97241" />
+<img width="1602" height="262" alt="image" src="https://github.com/user-attachments/assets/1c0fb05e-9482-460a-ada6-1db6ca69701f" />
+
+
 
 
 ### Fluxo 4 — Consultar pedido
 Qual o status do pedido 1042?
-<img width="1018" height="390" alt="image" src="https://github.com/user-attachments/assets/db2aca60-5ed8-4816-8043-53d02ee79ad6" />
+<img width="1018" height="390" alt="image" src="https://github.com/user-attachments/assets/b69c62f8-37a3-498d-92ca-9e32274994ba" />
+
+
 
 
 E o que eu pedi nele mesmo?
-<img width="1602" height="262" alt="image" src="https://github.com/user-attachments/assets/74a89080-4797-46c4-bb05-4b21724f2024" />
+<img width="794" height="252" alt="image" src="https://github.com/user-attachments/assets/4d721aa9-acff-4dbc-af7d-061db4d43ab0" />
+
 
 
 ### Fluxo 5 — Tratamento de erros
 Me fala do produto 999.
-<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/f1fac65e-c0cc-4937-a1fa-8ad6f3d99013" />
+<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/9b67b057-d054-43a5-860b-3763a2243c13" />
+
 
 
 Quero comprar 1000 unidades do produto 1.
-<img width="1472" height="470" alt="image" src="https://github.com/user-attachments/assets/24f56d1f-8e9a-4201-a3d2-5638fed551ed" />
+<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/7d5b7b58-e7cb-49cd-afd1-16c61748562d" />
+
 
 
 Qual o status do pedido 9999?
-<img width="1602" height="152" alt="image" src="https://github.com/user-attachments/assets/84e02fe9-98c5-42fa-a8f5-08210fdbfcf0" />
+<img width="1602" height="152" alt="image" src="https://github.com/user-attachments/assets/4d07364f-a1a5-4fe3-a4ed-ad43b87677c2" />
+
 
 
 
 ### Fluxo 6 — Limites do agente
 Qual a previsão do tempo em SP?
-<img width="1602" height="126" alt="image" src="https://github.com/user-attachments/assets/05ff2b7d-d81d-432c-b69a-edde1a2a2d93" />
+<img width="1602" height="126" alt="image" src="https://github.com/user-attachments/assets/add76964-aa2d-473f-aefd-f6c98f1f682c" />
+
 
 
 Cancela meu pedido 1042.
-<img width="1592" height="130" alt="image" src="https://github.com/user-attachments/assets/ae68d5f5-b26a-47ed-92bf-12371b665274" />
+<img width="1592" height="130" alt="image" src="https://github.com/user-attachments/assets/459f090a-2a2d-4bc7-ab50-870a7b113500" />
+
 
