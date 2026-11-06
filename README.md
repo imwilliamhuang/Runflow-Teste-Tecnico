@@ -68,13 +68,15 @@ Quais produtos vocês têm disponíveis?
 
 
 Me mostra só os produtos que estão em estoque.
-<img width="1620" height="298" alt="image" src="https://github.com/user-attachments/assets/ab02a0c1-5163-4ac7-80e4-c830c0c41f2d" />
+<img width="798" height="316" alt="image" src="https://github.com/user-attachments/assets/b012d17b-b7e9-486a-96a0-220c6e346a73" />
+
 
 
 
 ### Fluxo 2 — Detalhes de produto
 Me conta mais sobre o produto 3.
-<img width="798" height="316" alt="image" src="https://github.com/user-attachments/assets/3d5ce95d-9354-4b22-b2d3-7a00c13df385" />
+<img width="1620" height="298" alt="image" src="https://github.com/user-attachments/assets/5c3ce36d-7ec1-4688-bbfe-d87ca6d43d99" />
+
 
 
 
@@ -104,14 +106,19 @@ Qual o status do pedido 1042?
 
 
 
+
+
 E o que eu pedi nele mesmo?
 <img width="794" height="252" alt="image" src="https://github.com/user-attachments/assets/4d721aa9-acff-4dbc-af7d-061db4d43ab0" />
 
 
 
+
+
 ### Fluxo 5 — Tratamento de erros
 Me fala do produto 999.
-<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/9b67b057-d054-43a5-860b-3763a2243c13" />
+<img width="1620" height="154" alt="image" src="https://github.com/user-attachments/assets/80817f24-8396-478f-82e5-029081fe0489" />
+
 
 
 
