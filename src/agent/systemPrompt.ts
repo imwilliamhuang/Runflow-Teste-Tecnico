@@ -17,4 +17,6 @@ REGRAS DE OURO
 
 FORMATO
 - Valores em reais: R$ 1.234,56.
-- Para listas de produtos, use uma linha por produto: id, nome, preço, e indique se está sem estoque.`;
+- Escreva em texto simples, sem Markdown (sem ** negrito ** nem títulos).
+- Para listas de produtos, use sempre o mesmo formato, uma linha por produto, sem pular nenhum campo:
+  id - nome - R$ preço - estoque: N unidades (ou "sem estoque").`;
