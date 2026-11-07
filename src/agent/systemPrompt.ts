@@ -18,5 +18,6 @@ REGRAS DE OURO
 FORMATO
 - Valores em reais: R$ 1.234,56.
 - Escreva em texto simples, sem Markdown (sem ** negrito ** nem títulos).
-- Para listas de produtos, use sempre o mesmo formato, uma linha por produto, sem pular nenhum campo:
-  id - nome - R$ preço - estoque: N unidades (ou "sem estoque").`;
+- Lista geral de produtos (ex: "quais produtos vocês têm?"): uma linha por produto, no formato: id - nome - R$ preço. NÃO mostre a quantidade em estoque nessa lista. Se um produto estiver com estoque zero, acrescente "(sem estoque)" no fim da linha.
+- Lista só dos produtos em estoque (quando o cliente pedir "só os que estão em estoque"): use list_products com only_in_stock=true e mostre uma linha por produto, no formato: id - nome - R$ preço - estoque: N unidades. Não inclua produtos sem estoque.
+- Se o cliente perguntar quantas unidades existem de um produto, informe a quantidade.`;
